@@ -12,7 +12,7 @@ Create and interactive web map that displays countries by GDP PPP that also disp
 
 <h2>Output:</h2>
 
-#### *Open index.html in qgis2web folder*
+#### *Download qgis2web folder and open index.html in web browser*
 
 I merged the GDP PPP with countries HDI score and development group into the same shapefile to display all this information using one layer. I then used the qgis2web plugin in QGIS to create a web map of this data.
 
