@@ -6,6 +6,9 @@ July 2024
 ### Source:
 [Memphis Public Safety Data Portal](https://data.memphistn.gov/)
 
+### Environment:
+QGIS
+
 ### Background/Context:
 Heatmaps are often used with crime data to identify hotspots. I wanted to create a heatmap of Memphis homicides with over a decades worth of data.
 
