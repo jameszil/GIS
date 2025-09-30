@@ -38,9 +38,4 @@ Select by Location
 Select by Expression
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/GIS%20select%20by%20(4).PNG?raw=true" height="80%" width="80%" alt="Query Steps"/>
 
-
-
-
-
-
-
+[Check out my Tableau project where I map the Top 50 Cities by Homicide Rate](https://github.com/jameszil/Tableau/tree/main/top_cities_homicide_rate)
