@@ -73,7 +73,7 @@
 - change projections, project properties, project defined scales for world
 - mouse click pan, map swipe
 - create animation swing
-- create fake intrusion 3d map view
+- create 3D intrusion map
 - source query builder to filter
 - line join style round
 - text buffer, label placement
