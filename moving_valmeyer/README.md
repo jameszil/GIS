@@ -41,7 +41,7 @@ I used Euclidean Distance to measure the distance between the location of the ol
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/moving%20valmeyer%20(2).PNG?raw=true" height="150%" width="150%" alt="Query Steps"/>
 <br />
 <br />
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/moving_valmeyer3.png?raw=true" height="100%" width="100%" alt="Query Steps"/>
+<img src="https://github.com/jameszil/pictures/blob/main/GIS/moving_valmeyer3.png?raw=true" height="70%" width="70%" alt="Query Steps"/>
 <br />
 
 
