@@ -38,10 +38,13 @@ Created by Landsat 8 Band Combinations for analysis via Semi-Automatic Classific
 <br />
 
 ### Legatum Security Index
+
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Legatum%20Security%20Index.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
 ### Legatum 2023 Colombia Security and Safety
+The Safety & Security pillar measures the degree to which war, conflict, terror, and crime have destabilised the security of individuals, both immediately and through longer lasting effects. This map shows what countries have higher or lower Safety & Security pillar than Colombia.
+
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Legatum%202023%20Colombia%20Security%20and%20Safety.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
