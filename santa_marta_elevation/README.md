@@ -22,12 +22,13 @@ Then I built a virtual layer, edited shapes with vertex tool, merged two dem lay
 
 <p align="left">
 Here is the original Esri Satellite Imagery
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%20esri%20relief%20none.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<br />
+<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%20esri%20relief%20none.png?raw=true" height="60%" width="60%" alt="Steps"/>
 <br />
 <br />
 Relief Map
 <br />
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%20esri%20relief.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%20esri%20relief.png?raw=true" height="60%" width="60%" alt="Steps"/>
 <br />
 <br />
 With the mosaic as my raster output I got this output by using a combination of a singleband pseudocolor layer and a separate hillshade layer in front set at 40% opacity.
@@ -35,13 +36,13 @@ With the mosaic as my raster output I got this output by using a combination of 
 <br />
 Elevation Map
 <br />
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%20hillshade2.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%20hillshade2.png?raw=true" height="60%" width="60%" alt="Steps"/>
 <br />
 <br />
 We are able to see the mountain range's elevation very clearly in this image. Then I created a 3D elevation intrusion model using Qgis2threejs
 <br />
 <br />
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%203d3.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%203d3.png?raw=true" height="60%" width="60%" alt="Steps"/>
 <br />
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%203d4.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<img src="https://github.com/jameszil/pictures/blob/main/GIS/SM%203d4.png?raw=true" height="60%" width="60%" alt="Steps"/>
 <br />
