@@ -3,6 +3,7 @@
 <p align="left">
 
 ### Soil Drainage in the Navarro River Watershed
+Created for [UC Davis Geographic Information Systems (GIS) Specialization](https://www.coursera.org/specializations/gis)
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Portrait%20Layout.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
