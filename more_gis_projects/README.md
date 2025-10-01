@@ -9,16 +9,19 @@ Created for [UC Davis Geographic Information Systems (GIS) Specialization](https
 
 ### Minimalist Street Map, City of Cartagena
 Created by querying roads via QuickOSM and OSMDownloader plugins in QGIS
+
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Cartagena.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
 ### Elevation Map of Oahu
 Created by Landsat 8 Band Combinations for analysis via Semi-Automatic Classification plugin in QGIS
+
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Oahu2.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
 ### Vegetation Analysis of Dominican Republic-Haiti Border
 Created by Landsat 8 Band Combinations for analysis via Semi-Automatic Classification plugin in QGIS
+
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Border%20title.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
@@ -42,7 +45,7 @@ Created by Landsat 8 Band Combinations for analysis via Semi-Automatic Classific
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Legatum%202023%20Colombia%20Security%20and%20Safety.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
-### Manhattan LiDAR Shaded Relief Georeferenced to ESRI Satellite Imagery
+### Manhattan LiDAR Shaded Relief Georeferenced to OpenStreetMap
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/georeference.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
