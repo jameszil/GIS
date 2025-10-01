@@ -42,10 +42,6 @@ Created by Landsat 8 Band Combinations for analysis via Semi-Automatic Classific
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Legatum%202023%20Colombia%20Security%20and%20Safety.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
-### Income Groups
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/Income%20Group.png?raw=true" height="80%" width="80%" alt="Steps"/>
-<br />
-
 ### Manhattan LiDAR Shaded Relief Georeferenced to ESRI Satellite Imagery
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/georeference.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
