@@ -18,7 +18,7 @@ Create an elevation map, relief map, and a 3D model of this region using raster 
 <h2>Output:</h2>
 
 First I exported the raster data from USGS Earth Explorer and then set the Landsat 8 Band Combinations for analysis via the Semi-Automatic Classification plugin.
-Then I built a virtual layer, edited shapes with vertex tool, merged two dem layers using mosaics and MMQGIS, trimmed layers by clipping mask layer, removed raster gaps with fill nodata, creating new shapefiles with ID key
+Then I built a virtual raster layer to combine multiple rasters. I used multiply, edited shapes with vertex tool, merged two dem layers using mosaics and MMQGIS, trimmed layers by clipping mask layer, removed raster gaps with fill nodata to create a final output raster layer. From there I experimented with different raster tools to create a relief map, contour lines, hillshade, etc.
 
 <p align="left">
 Here is the original Esri Satellite Imagery
