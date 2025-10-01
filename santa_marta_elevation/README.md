@@ -1,4 +1,4 @@
-<h1>Sierra Nevada de Santa Marta Elevation Map and 3D Model</h1>
+<h1>Sierra Nevada de Santa Marta Topographic Colored Hillshade Map and 3D Model</h1>
 
 ### Date:
 April 2024
