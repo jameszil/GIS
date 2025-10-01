@@ -83,6 +83,7 @@
 - attribute form properties, widget type, value map, load from layer, select field for dropdown 
 - create separate layer centroids for labeling, remove symbology, add label buffer and placement
 - openlayers and leaflet for publishing with gqis2web
+- map cities without lat and long
 
 
 
