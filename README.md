@@ -58,31 +58,31 @@
 - Beginning to end projects starting from downloading from data from city data hubs, cleaning and scrubbing data, importing into GIS software, querying data, designing symbology and legends, to delivering insights through map visualizations.
 
 ### Other Steps
-add drop shadow
-inverted polygons outline of country
-spatial analyst
-refactor fields - change data type
-add delimited text layer
-join text file
-labels
-make better map of city using OSM
-exporting file dimensions high quality
-concat strings || ' ' ||
-queries search GIS in attribute table
-fixed cities multiple countries by concat country code to city
-change projections, project properties, project defined scales for world
-mouse click pan, map swipe
-create animation swing
-create fake intrusion 3d map view
-source query builder to filter
-line join style round
-text buffer, label placement
-label rendering, scale dependent visibility
-map units for changing size zoom
-new print layout, edit map extent
-attribute form properties, widget type, value map, load from layer, select field for dropdown 
-create separate layer centroids for labeling, remove symbology, add label buffer and placement
-openlayers and leaflet for publishing with gqis2web
+- add drop shadow
+- inverted polygons outline of country
+- spatial analyst
+- refactor fields - change data type
+- add delimited text layer
+- join text file
+- labels
+- make map of city using OSM plugins
+- exporting file dimensions high quality
+- concat strings || ' ' ||
+- queries search GIS in attribute table
+- fixed cities multiple countries by concat country code to city
+- change projections, project properties, project defined scales for world
+- mouse click pan, map swipe
+- create animation swing
+- create fake intrusion 3d map view
+- source query builder to filter
+- line join style round
+- text buffer, label placement
+- label rendering, scale dependent visibility
+- map units for changing size zoom
+- new print layout, edit map extent
+- attribute form properties, widget type, value map, load from layer, select field for dropdown 
+- create separate layer centroids for labeling, remove symbology, add label buffer and placement
+- openlayers and leaflet for publishing with gqis2web
 
 
 
