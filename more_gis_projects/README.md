@@ -2,22 +2,23 @@
 
 <p align="left">
 
+### Soil Drainage in the Navarro River Watershed
+<img src="https://github.com/jameszil/pictures/blob/main/GIS/Portrait%20Layout.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<br />
+
 ### Minimalist Street Map, City of Cartagena
 Created by querying roads via QuickOSM and OSMDownloader plugins in QGIS
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Cartagena.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
-### Soil Drainage in the Navarro River Watershed
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/Portrait%20Layout.png?raw=true" height="80%" width="80%" alt="Steps"/>
+### Elevation Map of Oahu
+Created by Landsat 8 Band Combinations for analysis via Semi-Automatic Classification plugin in QGIS
+<img src="https://github.com/jameszil/pictures/blob/main/GIS/Oahu2.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
 ### Vegetation Analysis of Dominican Republic-Haiti Border
 Created by Landsat 8 Band Combinations for analysis via Semi-Automatic Classification plugin in QGIS
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Border%20title.png?raw=true" height="80%" width="80%" alt="Steps"/>
-<br />
-
-### Elevation Map of Oahu
-<img src="https://github.com/jameszil/pictures/blob/main/GIS/Oahu2.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
 ### Quality of Drinking Water in Latin America
@@ -44,7 +45,7 @@ Created by Landsat 8 Band Combinations for analysis via Semi-Automatic Classific
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/Income%20Group.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
-### Manhattan Relief Image Georeference
+### Manhattan LiDAR Shaded Relief Georeferenced to ESRI Satellite Imagery
 <img src="https://github.com/jameszil/pictures/blob/main/GIS/georeference.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
