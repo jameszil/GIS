@@ -27,11 +27,8 @@ The official TIGER road lines from the US Census Bureau won’t be updated for a
 
 [See my published ArcGIS web map of Moving Valmeyer here](https://ucd-cpe.maps.arcgis.com/apps/mapviewer/index.html?webmap=5f54f9f8a855444186ba588f5cd33e4f)
 
-I had to use several joins and relates to connect data from the different layers together including the raster dem layer for elevation and the vector parcel layers.
-<br />
-I used the Zonal Statistics geoprocessing tool to run MIN_MAX_MEAN calculations.
-<br />
-I used Euclidean Distance to measure the distance between the location of the old and new town.
+I had to use several joins and relates to connect data from the different layers together including the raster dem layer to calculate the elevation and slope for the vector parcel layers. I used the Zonal Statistics geoprocessing tool to run MIN_MAX_MEAN calculations, Euclidean Distance to measure the distance between the location of the old and new town, and created a new layer to digitize the new temporary roads.
+
 
 <br />
 <p align="left">
